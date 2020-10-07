@@ -15,7 +15,7 @@
   </head>
   <body>
     <!-- Beginning of nav bar -->
-    <div class="fixed-top">
+    <div class="top">
       <div class="collapse" id="navbarToggleExternalContent">
         <div class="bg-dark p-4">
           <a class="nav-link" href="./index.html"><h5 class="text-white h4">About</h5></a>
@@ -39,6 +39,44 @@
       </nav>
     </div>
     <!-- End of nav bar -->
+
+    <!-- Begin Contact section -->
+    <main class="wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <h2>Contact</h2>
+            <hr />
+            <!-- Begin form -->
+            <form>
+              <div class="form-group">
+                <label for="exampleFormControlInput1">Name</label>
+                <input
+                  type="email"
+                  class="form-control"
+                  id="exampleFormControlInput1"
+                  placeholder="First and last name"
+                />
+              </div>
+              <div class="form-group">
+                <label for="exampleFormControlInput1">Email address</label>
+                <input
+                  type="email"
+                  class="form-control"
+                  id="exampleFormControlInput1"
+                  placeholder="name@example.com"
+                />
+              </div>
+              <div class="form-group">
+                <label for="exampleFormControlTextarea1">Message</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+              </div>
+            </form>
+            <button type="button" class="btn btn-info">Submit</button>
+          </div>
+        </div>
+      </div>
+    </main>
 
     <!-- Javascript CDNs - jQuery first, then Popper.js, then Bootstrap JS -->
     <script
