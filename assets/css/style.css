@@ -1,15 +1,19 @@
+/* to add margin between header and main content */
 .wrapper {
   margin-top: 40px;
 }
 
-.about-me {
-  margin-top: 5px;
-}
-
+/* Styling for about me image */
 .img-container {
   padding-right: 20px;
 }
 
+/* Styling for images on portfolio page */
+.portfolio-img-container {
+  margin: 20px;
+}
+
+/* testing for a background image */
 .someclass {
   background: url(../images/background.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
