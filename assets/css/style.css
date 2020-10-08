@@ -6,6 +6,8 @@
 /* Styling for about me image */
 .img-container {
   padding-right: 20px;
+  width: 200px;
+  height: 200px;
 }
 
 /* Styling for images on portfolio page */
@@ -13,11 +15,10 @@
   margin: 20px;
 }
 
-/* testing for a background image */
-.someclass {
-  background: url(../images/background.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
 }
