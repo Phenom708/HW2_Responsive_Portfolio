@@ -24,6 +24,10 @@
   margin: 20px;
 }
 
+.btn {
+  margin-bottom: 20px;
+}
+
 .footer {
   position: fixed;
   bottom: 0;
