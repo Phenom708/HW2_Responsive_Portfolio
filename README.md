@@ -12,9 +12,7 @@ Create a responsive web application using Bootstrap to render well on all screen
 
 #### Large Screen
 
-<img src="./assets/images/aboutMe_lg_screen.png" alt="About Me page on large screen" width="300" height="200">
-<img src="./assets/images/contact_lg_screen.png" alt="Contact page on large screen" width="300" height="200">
-<img src="./assets/images/portfolio_lg_screen.png" alt="Portfolio page on large screen" width="300" height="200">
+<img src="./assets/images/aboutMe_lg_screen.png" alt="About Me page on large screen" width="300" height="200"><img src="./assets/images/contact_lg_screen.png" alt="Contact page on large screen" width="300" height="200"><img src="./assets/images/portfolio_lg_screen.png" alt="Portfolio page on large screen" width="300" height="200">
 
 #### Small Screen
 
