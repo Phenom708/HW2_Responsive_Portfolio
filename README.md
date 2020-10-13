@@ -6,7 +6,7 @@ Create a responsive web application using Bootstrap to render well on all screen
 
 ### **Link:**
 
-[See deployed page here](https://phenom708.github.io/HW2_Responsive_Portfolio/)
+[See deployed page here](https://peterphenow.github.io/HW2_Responsive_Portfolio/)
 
 ### **Screenshots:**
 
