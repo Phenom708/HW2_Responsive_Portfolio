@@ -17,3 +17,7 @@ Create a responsive web application using Bootstrap to render well on all screen
 #### Small Screen
 
 <img src="./assets/images/aboutMe_sm_screen.png" alt="About Me page on small screen" width="150" height="250">&nbsp;<img src="./assets/images/contact_sm_screen.png" alt="Contact page on small screen" width="150" height="250">&nbsp;<img src="./assets/images/portfolio_sm_screen.png" alt="Portfolio page on small screen" width="150" height="250">
+
+### **Licenses**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
